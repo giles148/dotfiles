@@ -1,5 +1,5 @@
 DOTFILES
 ========
 
-git clone git@github.com:anoxic/dotfiles.git
-cd ~/dotfiles && git submodule init && git submodule update && ./make.sh
+git clone git@github.com:giles148/dotfiles.git
+cd ~/dotfiles && make
