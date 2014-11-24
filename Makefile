@@ -1,5 +1,5 @@
 FILES = aliases gitconfig profile vim vimrc zsh zshrc
-
+#note need to update to include configs for non vim
 all:
 	git submodule init
 	git submodule update
